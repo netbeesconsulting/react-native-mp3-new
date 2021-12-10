@@ -1,0 +1,2 @@
+export const GET_PROGRAMS = 'GET_PROGRAMS';
+export const GET_PROGRAMS_OK = 'GET_PROGRAMS_OK';
